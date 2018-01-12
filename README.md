@@ -19,7 +19,7 @@ This course will teach the basics with a crash course in Python, continuing on t
     * [Groupby and Aggregate Functions](./Spark_DataFrames/GroupBy_and_Aggregate_Functions.ipynb)
     * [Missing Data](./Spark_DataFrames/Missing_Data.ipynb)
     * [Dates and Timestamps](./Spark_DataFrames/Dates_and_Timestamps.ipynb)
-    * [DataFrame Project Exercise](./Spark_DataFrames/Spark DataFrames Project Exercise.ipynb)  
+    * [DataFrame Project Exercise](./Spark_DataFrames/Spark_DataFrames_Project_Exercise.ipynb)  
 
 2. Linear Regression
     * [Data Transformations](./Spark_for_Machine_Learning/Linear_Regression/Data_Transformations.ipynb)
@@ -34,16 +34,16 @@ This course will teach the basics with a crash course in Python, continuing on t
 
 4. Tree Methods
     * [Tree Methods with PySpark Example](./Spark_for_Machine_Learning/Tree_Methods/Tree_Methods_Doc_Example.ipynb)
-    * [Tree Methods Code Along](./Spark_for_Machine_Learning/Tree_Methods/Tree Methods Code Along.ipynb)
+    * [Tree Methods Code Along](./Spark_for_Machine_Learning/Tree_Methods/Tree_Methods_Code_Along.ipynb)
     * [Tree Methods Consulting Project](./Spark_for_Machine_Learning/Tree_Methods/Tree_Methods_Consulting_Project.ipynb)
 
 5. Clustering
     * [Clustering with PySpark Example](./Spark_for_Machine_Learning/Clustering/Clustering_Code_Example.ipynb)
-    * [Clustering Code Along](./Spark_for_Machine_Learning/Clustering/Clustering Code Along.ipynb)
+    * [Clustering Code Along](./Spark_for_Machine_Learning/Clustering/Clustering_Code_Along.ipynb)
     * [Clustering Consulting Project](./Spark_for_Machine_Learning/Clustering/Clustering_Consulting_Project.ipynb)
 
 6. Recommender System  
-  * [Recommender System Code Along](./Spark_for_Machine_Learning/Recommender_Systems/Recommender_Code_Along.ipynb)
+    * [Recommender System Code Along](./Spark_for_Machine_Learning/Recommender_Systems/Recommender_Code_Along.ipynb)
 
 7. Natural Language Processing (NLP)
     * [Tools for NLP](./Spark_for_Machine_Learning/Natural_Language_Processing/Tools_for_NLP.ipynb)
