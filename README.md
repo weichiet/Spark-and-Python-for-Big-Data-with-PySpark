@@ -50,4 +50,4 @@ This course will teach the basics with a crash course in Python, continuing on t
     * [NLP Code Along](./Spark_for_Machine_Learning/Natural_Language_Processing/NLP_Code_Along.ipynb)
 
 8. Spark Streaming
-    * [Introduction to Spark Streaming](./Spark_Streaming/Introduction to Spark Streaming.ipynb)     
+    * [Introduction to Spark Streaming](./Spark_Streaming/Introduction_to_Spark_Streaming.ipynb.ipynb)     
